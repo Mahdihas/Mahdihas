@@ -58,4 +58,10 @@ Skills: BOOTSTRAP/ Tailwind/ NODE.JS / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdihas&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mahdihas)  
+#### Github Stats
+
+![Ab Naeem's github stats](https://github-readme-stats.vercel.app/api?username=nwebpro&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nwebpro&layout=compact&theme=tokyonight&hide")
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mahdihas)  
