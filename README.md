@@ -1,4 +1,4 @@
-<img src="/Black Minimal Business Personal Profile Linkedin"><img/>
+<img src="Black Minimal Business Personal Profile Linkedin"><img/>
 
 <h1 align="center">Hi 👋, I'm Mahdi Hasan</h1>
 <h3 align="center">MERN Stack Web Developer and react specialist</h3>
