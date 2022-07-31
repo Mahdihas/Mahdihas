@@ -1,6 +1,6 @@
 ![](https://media-exp1.licdn.com/dms/image/C5616AQHnRGI2l7GNdA/profile-displaybackgroundimage-shrink_350_1400/0/1659195853496?e=1664409600&v=beta&t=da-02CSL47pEcFIP9jsC0hPXuMqQdDO6jqkG4ONSMkw)
 
- [![Img alt text](https://img.youtube.com/vi/YouTube_video_ID/0.jpg)](https://www.youtube.com/watch?v=YouTube_video_ID)
+
 <h1 align="center">Hi 👋, I'm Mahdi Hasan</h1>
 <h3 align="center">MERN Stack Web Developer and react specialist</h3>
 
