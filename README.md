@@ -4,10 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mahdi Hasan</h1>
-<h3 align="center">MERN Stac
-
-
-k Web Developer and react specialist</h3>
+<h3 align="center">MERN Stack Web Developer and react specialist</h3>
 
 ![Profile views](https://gpvc.arturio.dev/mahdihas) 
 
