@@ -57,9 +57,9 @@ Skills: BOOTSTRAP/ Tailwind/ NODE.JS / REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdihas)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdihas&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
+
+![Mahidhasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdihas&theme=tokyonight&show_icons=true)
 
 
 
